@@ -4,4 +4,4 @@
 
 ## Learning PHP and Laravel
 
-I'm currently learning PHP and Laravel. This repository contains the code and files I created during my learning process.
+ This repository contains the code and files I created during my learning process of PhP Laravel.
