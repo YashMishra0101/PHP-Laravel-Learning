@@ -6,4 +6,4 @@
 
 This repository contains the code and files I created during my learning journey with PHP and Laravel.
 
-In order to align my skills with industry demands and personal goals, I have decided to discontinue my Laravel studies and focus on mastering the MERN stack for backend development, better preparing myself for future projects and opportunities. 🧑‍💻
+To match my skills with what the industry needs and my own goals,I have decided to discontinue my Laravel studies and focus on mastering the MERN stack for backend development, better preparing myself for future projects and opportunities. 🧑‍💻
